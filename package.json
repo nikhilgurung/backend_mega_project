@@ -1,0 +1,14 @@
+{
+  "name": "backend_with_nikhil",
+  "version": "1.0.0",
+  "description": "chai and backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "javscript"
+  ],
+  "author": "Nikhil",
+  "license": "ISC"
+}
